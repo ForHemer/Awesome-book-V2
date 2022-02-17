@@ -1,0 +1,25 @@
+{
+  "name": "awesome-book-v2",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ForHemer/Awesome-book-V2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ForHemer/Awesome-book-V2/issues"
+  },
+  "homepage": "https://github.com/ForHemer/Awesome-book-V2#readme",
+  "dependencies": {
+    "luxon": "^2.3.0",
+    "three": "^0.137.5"
+  }
+}
