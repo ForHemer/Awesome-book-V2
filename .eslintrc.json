@@ -19,7 +19,8 @@
     }]
   },
   "rules": {
-    "no-unused-vars": "off"
+    "no-unused-vars": "off",
+    "import/extensions": 0
   },
   "ignorePatterns": [
     "dist/",
